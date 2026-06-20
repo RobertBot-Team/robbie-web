@@ -1,2 +1,2 @@
 # robbie-web
-Webpage for Robbie Bor
+Webpage for Robbie Bot
